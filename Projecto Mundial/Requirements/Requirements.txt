@@ -1,0 +1,44 @@
+Proyecto final Desarrollo Web
+
+WC 2022 Qatar 2022
+
+ 
+
+Vamos a crear un par de web APIs para dar a conocer el calendario de partidos, tabla de posiciones, juegos etc.
+
+Así que se le contrata como ingeniero para hacer este sistema
+
+El objetivo es poner a disposición del público APIs que retornen los siguientes datos:
+
+Listado de países que participan - Done param needed WorldCup id
+Información adicional de cada país,
+copas ganadas,
+ranking FIFA
+información adicional que considere útil.
+Listado de Estadios - Done
+Información básica de los estadios
+Calendario de Juegos
+Fecha y hora del juego, reto (usar horario GTM para, desplegar la hora local dependiendo del país dónde consume el API)
+Resultados de juegos
+Tabla de posiciones generales
+ 
+
+Tomar en cuenta:
+
+Debe de tener un CRUD para cada elemento (tabla), este será alimentado y administrado por una o dos personas (hacer un sitio para su administración)
+Las APIs de consulta serán públicas (reto: usar modelo de suscripción para consumir con tokens)
+ 
+
+ 
+
+Los mejores proyectos pueden aplicar a exoneración de examen final
+
+
+ 
+
+Base de datos y tecnología a tulizar queda a discreción de los alumnos,
+
+Trabajo en parejas, uno trabaja el backend y otro el Frontend
+
+
+ 
